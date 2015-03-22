@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Markdown"
+date:   2015-02-09 11:12:00
+categories: keffa.se pappa
+---
+Har nu läst om markdown och testar därför det lite för att se om jag får de fördelar jag hoppas på
+Förhoppningar
+-----------
+* Fokus på innehållet _istället för på formatet_
+* Lättlästa källfiler __som är enklare att underhålla__
+>> Hoppas på detta även om jag inte behöver det :-\)
