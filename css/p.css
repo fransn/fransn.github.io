@@ -1,0 +1,15 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("proteknorr.se") {
+
+    /* Styles */
+    #header {
+     display: none; 
+    }
+    #mainnav {
+      display: none;
+    }
+    #footer {
+      display: none;
+  }
+}
