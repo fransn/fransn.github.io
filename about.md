@@ -4,4 +4,4 @@ title: Om keffa.se
 permalink: /about/
 ---
 
-Keffa.se är en domän som familjen Nilsson använder.
+Keffa.se är min egen uppkopplade lekplats.

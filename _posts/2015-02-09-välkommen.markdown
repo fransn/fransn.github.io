@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Välkommen till vår sida!"
-date:   2015-02-09 10:21:09
-categories: keffa.se välkommen
----
-Hej! Välkommen till den första artikeln på denna sidan. Vi vet inte ännu vad som dyker upp här framöver.
